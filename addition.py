@@ -1,6 +1,10 @@
 a = 10
 b = 20
 c = a + b
+# add operator
+# subtract operator
+# multiply operator
+# divide operator
 d = a - b
 e = a * b
 f = a / b
